@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-v2/static/css/main.9f5def1d.chunk.css",
+    "main.js": "/react-portfolio-v2/static/js/main.2e328f9c.chunk.js",
+    "main.js.map": "/react-portfolio-v2/static/js/main.2e328f9c.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-v2/static/js/runtime-main.d7077e69.js",
+    "runtime-main.js.map": "/react-portfolio-v2/static/js/runtime-main.d7077e69.js.map",
+    "static/js/2.85de3c33.chunk.js": "/react-portfolio-v2/static/js/2.85de3c33.chunk.js",
+    "static/js/2.85de3c33.chunk.js.map": "/react-portfolio-v2/static/js/2.85de3c33.chunk.js.map",
+    "index.html": "/react-portfolio-v2/index.html",
+    "static/css/main.9f5def1d.chunk.css.map": "/react-portfolio-v2/static/css/main.9f5def1d.chunk.css.map",
+    "static/js/2.85de3c33.chunk.js.LICENSE.txt": "/react-portfolio-v2/static/js/2.85de3c33.chunk.js.LICENSE.txt",
+    "static/media/code.c24ae482.svg": "/react-portfolio-v2/static/media/code.c24ae482.svg",
+    "static/media/elena-joy.a4770068.jpg": "/react-portfolio-v2/static/media/elena-joy.a4770068.jpg",
+    "static/media/github.6fa0c3b0.svg": "/react-portfolio-v2/static/media/github.6fa0c3b0.svg",
+    "static/media/instagram 1.d1955e8b.svg": "/react-portfolio-v2/static/media/instagram 1.d1955e8b.svg",
+    "static/media/linked-in.9bb0ccd4.svg": "/react-portfolio-v2/static/media/linked-in.9bb0ccd4.svg",
+    "static/media/splash.d46d4544.svg": "/react-portfolio-v2/static/media/splash.d46d4544.svg",
+    "static/media/travelly.f0be14e0.jpg": "/react-portfolio-v2/static/media/travelly.f0be14e0.jpg",
+    "static/media/twitter 1.3fbda9a8.svg": "/react-portfolio-v2/static/media/twitter 1.3fbda9a8.svg",
+    "static/media/youtube-symbol 1.ed5daf28.svg": "/react-portfolio-v2/static/media/youtube-symbol 1.ed5daf28.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7077e69.js",
+    "static/js/2.85de3c33.chunk.js",
+    "static/css/main.9f5def1d.chunk.css",
+    "static/js/main.2e328f9c.chunk.js"
+  ]
+}
