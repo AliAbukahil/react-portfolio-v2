@@ -7,13 +7,14 @@ import Projects from "./pages/Projects";
 import NavBar from "./components/NavBar";
 // importing Router
 import { Switch, Route } from "react-router-dom";
+import IntroSection from "./components/IntroSection";
 
 function App() {
   return (
     <div>
       <NavBar />
       <Switch>
-        <Route path="/" exact>
+        <Route path="/" exact component={IntroSection}>
           <AboutMe />
         </Route>
         <Route path="/projects">

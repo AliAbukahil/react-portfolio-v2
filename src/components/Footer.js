@@ -24,7 +24,7 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <Link to="#">
+            <Link to="https://www.youtube.com/">
               <img src={youtube} alt="youtube-social" />
             </Link>
           </li>
